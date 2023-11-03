@@ -1,0 +1,23 @@
+//Principio DRY - don't repeat yourselft.
+//principio responsabilidad unnica.
+//Principio STUPID - CODE smells - huele mal.
+    -Singleton: Patron Singleton.
+    -Tight Coupling: Alto acoplamiento. 
+    -Untestability: Codigo no probable(Unite Test).
+    -Premature Optimization: Optimizaciones prematuras.
+        //complejidad accidental: Solucion completa a la minima indispensable.
+        //Complejidad esencial: la complejidad es inherente al problema. 
+    -Idescriptive Naming: nombres poco descriptivos.
+    -Duplication: Duplicaidad de codigo, no aplicar el principio DRY.
+//Principios Solid.
+
+
+
+
+Los 5 principios S.O.L.I.D. de diseño de software son:
+
+S – Single Responsibility Principle (SRP) = Principio de Responsabilidad Unica.
+O – Open/Closed Principle (OCP)
+L – Liskov Substitution Principle (LSP)
+I – Interface Segregation Principle (ISP)
+D – Dependency Inversion Principle (DIP)
