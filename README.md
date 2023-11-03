@@ -1,7 +1,6 @@
-# Proyecto para practicar
+# Proyecto para practicar conceptos Clean Code, Code Smells, SOLID principles. (TypeScript - Object-Oriented Programming).
 
 Este es un proyecto de Vanilla TypeScript en Vite, para trabajar los ejercicios del curso sobre Principios SOLID y CleanCode.
-
 Clonar o descargar el proyecto y luego:
 
 ```
